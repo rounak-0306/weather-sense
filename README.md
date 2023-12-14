@@ -15,7 +15,8 @@ You can experience the Weather App live [here](weather-sense-rounak.netlify.app)
 
 ![image](https://github.com/rounak-0306/weather-sense/assets/96331920/af6ecc1c-f677-480c-8861-27f19b685ff4)
 
-![Screenshot (508)](https://github.com/rounak-0306/weather-sense/assets/96331920/082bedb5-930c-4d29-a3f9-b5e9fd5c0eb1)
+![Screenshot (507)](https://github.com/rounak-0306/weather-sense/assets/96331920/c508a550-82fb-4036-a236-6c39dcf119aa)
+
 
 
 
