@@ -13,6 +13,12 @@ A simple and delightful weather app that allows users to check the current weath
 
 You can experience the Weather App live [here](weather-sense-rounak.netlify.app).
 
+![image](https://github.com/rounak-0306/weather-sense/assets/96331920/af6ecc1c-f677-480c-8861-27f19b685ff4)
+
+![Screenshot (508)](https://github.com/rounak-0306/weather-sense/assets/96331920/082bedb5-930c-4d29-a3f9-b5e9fd5c0eb1)
+
+
+
 Usage
 📝 Type the name of a city in the input box and press Enter to get the current weather information for that city.
 
